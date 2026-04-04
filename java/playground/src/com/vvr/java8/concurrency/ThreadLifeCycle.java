@@ -1,6 +1,4 @@
-package com.vvr.concurrency;
-
-import java.math.BigInteger;
+package com.vvr.java8.concurrency;
 
 public class ThreadLifeCycle {
 

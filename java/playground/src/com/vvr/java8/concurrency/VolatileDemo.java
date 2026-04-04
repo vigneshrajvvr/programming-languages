@@ -1,4 +1,4 @@
-package com.vvr.concurrency;
+package com.vvr.java8.concurrency;
 
 public class VolatileDemo {
     public static void main(String[] args) {

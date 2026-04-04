@@ -1,4 +1,4 @@
-package com.vvr.rest;
+package com.vvr.java11.rest;
 
 import com.google.gson.annotations.SerializedName;
 
